@@ -25,15 +25,19 @@ Here are some ideas to get you started:
 العقل السليم في الجسم السليم (Pikiran sehat di dalam tubuh yang kuat).
 
 University: [Esa Unggul University](https://share.google/xDskR3B8MVR99hjUI)
+
 Faculty: Faculty of Computer Science
+
 Major: Information Technology
+
 Year of Study: 2nd Year (Sophomore)
+
 Student Id: 20240801382
 
 ## My Github Stats📊
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vee&show_icons=true&theme=radical)
-)
+
 
 
 
