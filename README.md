@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vramudhia Egy Pratama
+# 👋 Vramudhia Egy Pratama
 
 <p align="center">
   <img src="assets/github-banner.png" width="100%" alt="Vramudhia Developer Banner">
